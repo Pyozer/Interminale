@@ -1,0 +1,150 @@
+/* THEME NUIT */
+body {
+	background-color: #171717;
+	color: #8E8E8E;
+}
+#navbar-custom {
+	background-color: #1D1D1D;
+	color: #8E8E8E;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: inherit;
+    background-color: #333;
+}
+#searchinputnav::-webkit-input-placeholder {
+   color: #8E8E8E;
+}
+#searchinputnav:-moz-placeholder {
+   color: #8E8E8E;  
+}
+#searchinputnav::-moz-placeholder {
+   color: #8E8E8E;  
+}
+#searchinputnav:-ms-input-placeholder {  
+   color: #8E8E8E;  
+}
+
+#searchinputnav {
+    color: #8E8E8E;
+    font-weight: 400;
+}
+#text_brand {
+    color: #868686;
+}
+#postdiv {
+	background-color: #1D1D1D;
+	color: #8E8E8E;
+    border-color: #252525 #252525 #252525;
+}
+.list-group .no_underline {
+	color: #8E8E8E;
+}
+.page-header {
+    border-bottom: 2px solid #8E8E8E;
+    color: #8E8E8E;
+}
+#divnopost {
+	background-color: #1D1D1D;
+	color: #8E8E8E;
+}
+.divmessage {
+   	background-color: #1D1D1D;
+	color: #8E8E8E;
+}
+#tchatmenu {
+	background-color: #1D1D1D;
+	color: #8E8E8E;
+}
+#opentchat {
+	color: #8E8E8E;	
+}
+#auteurmsg {
+	color: #8E8E8E;
+}
+.btn-outline-gray {
+    border: 1px solid #eaeaea;
+    color: #8E8E8E!important;
+}
+.btn-outline-gray:hover {
+    border: 1px solid #fff!important;
+    background-color: #1D1D1D!important;
+    color: #fff!important;
+}
+.btn-outline-default {
+    border: 1px solid #8E8E8E;
+    color: #fff;
+}
+.btn-outline-default:hover {
+    border: 1px solid #eaeaea!important;
+    background-color: #1D1D1D!important;
+    color: #fff!important;
+}
+.btn-outline-primary {
+    border: 1px solid #8E8E8E;
+    color: #8E8E8E!important;
+}
+.btn-outline-primary:hover {
+    border: 1px solid #eaeaea!important;
+    background-color: #1D1D1D!important;
+    color: #fff!important;
+}
+.btn-outline-primary-lg {
+    border: 2px solid #8E8E8E;
+    color: #8E8E8E!important;
+    border-radius: 5px;
+}
+.btn-outline-primary-lg:hover {
+    background-color: #1D1D1D!important;
+    color: #fff!important;
+}
+.radio label .circle {
+    border: 2px solid #8E8E8E;
+}
+.control-label {
+	color: #8E8E8E!important;
+}
+i {
+	color: #8E8E8E!important;
+}
+.liked i {
+    color: #C50606!important;
+}
+.alert-blue-gray i {
+    color: #fafafa!important;
+}
+.blockquote-help {
+    border-left: 5px solid #8E8E8E;
+}
+#divparams {
+    background-color: #1D1D1D;
+}
+.wellcustom {
+    background-color: #1D1D1D;
+    border: 1px solid #171717;
+}
+.btn.btn-flat:not(.btn-link), .btn-default.btn-flat:not(.btn-link) {
+    color: #eaeaea;
+}
+#divclasseorfriend {
+    background-color: #1D1D1D;
+    border-radius: 4px;
+}
+.modal-content {
+    background-color: #252525;
+}
+.allusersconnect .list-group {
+    background-color: #1D1D1D;
+
+}
+.allusersconnect .list-group-item {
+    background-color: #1D1D1D;
+    border-bottom: 1px solid #464646;
+    color: #fafafa;
+}
+.allusersconnect .list-group-item i{
+    color: #4CAF50!important;
+}
+.allusersconnect .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: #383838;
+    border-color: #232323;
+}
