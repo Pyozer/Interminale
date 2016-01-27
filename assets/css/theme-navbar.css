@@ -1,0 +1,36 @@
+#navbar-custom {
+    background-color: #414B57;
+    color: #fafafa;
+    -webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.26);
+       -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.26);
+    	-ms-box-shadow: 0 1px 5px rgba(0,0,0,0.26);
+    	 -o-box-shadow: 0 1px 5px rgba(0,0,0,0.26);
+    		box-shadow: 0 1px 5px rgba(0,0,0,0.26);
+    margin-bottom: 75px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: inherit;
+    background-color: rgba(255,255,255,.15);
+}
+
+#searchinputnav::-webkit-input-placeholder {
+   color: #fafafa;
+}
+
+#searchinputnav:-moz-placeholder {
+   color: #fafafa;  
+}
+
+#searchinputnav::-moz-placeholder {
+   color: #fafafa;  
+}
+
+#searchinputnav:-ms-input-placeholder {  
+   color: #fafafa;  
+}
+
+#searchinputnav {
+	color: #fafafa;
+	font-weight: 400;
+}

@@ -1,0 +1,12 @@
+/* TEAM */
+	Dev: Moussé Jean-Charles
+	Contact: thecrafteur72 [at] hotmail.fr
+	Twitter: @jc_mousse
+	From: La Flèche, France
+
+/* SITE */
+	Last update: 2015/12/12
+	Language: French
+	Doctype: HTML5
+	IDE: Sublime Text, Notepad++, FileZilla
+	Uses: Nginx, PHP, NodeJS, Socket.io, Bootstrap, jQuery, Moment.js, Font Awesome
