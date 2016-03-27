@@ -53,11 +53,11 @@ function suppr_accents($str, $encoding='utf-8')
 
 /* | Met en majuscule seulement la première lettre du prenom / nom | */
 function ucname($string) {
-    $string =ucwords(strtolower($string));
+    $string = ucwords(strtolower($string));
 
     foreach (array('-', '\'') as $delimiter) {
-      if (strpos($string, $delimiter)!==false) {
-        $string =implode($delimiter, array_map('ucfirst', explode($delimiter, $string)));
+      if (strpos($string, $delimiter) !== false) {
+        $string = implode($delimiter, array_map('ucfirst', explode($delimiter, $string)));
       }
     }
     return $string;
