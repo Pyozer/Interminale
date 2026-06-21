@@ -1,7 +1,11 @@
 var http = require('http');
 
 httpServer = http.createServer(function(req, res) {
-	console.log('Hello World');
+	// Display an Hello World message for the root path
+    if (req.url == '/') {
+        res.writeHead(200, {'Content-Type': 'text/plain'});
+        res.end('Hello World\n');
+    }
 });
 
 httpServer.listen(3000);
